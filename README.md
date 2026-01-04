@@ -19,5 +19,4 @@ account was created so that Projects can be cloned using https without
 authentication over IPv6 as well as IPv4 unlike the
 [github.com/LAMurakami](https://github.com/LAMurakami)
 Repostories that can only be accessed over IPv6 with the
-[IPv6 only workaround.](https://lamurakami.github.io/blog/2024/06/05/Access-GitHub-com-from-an-instance-without
--a-public-IPv4-address.html)
+[IPv6 only workaround.](https://lamurakami.github.io/blog/2024/06/05/Access-GitHub-com-from-an-instance-without-a-public-IPv4-address.html)
